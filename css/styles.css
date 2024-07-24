@@ -344,6 +344,7 @@ body {
     letter-spacing: 0.02em;
     text-align: center;
     color: var(--slate);
+    margin-bottom: 8px;
 }
 
 .social-list {
@@ -554,9 +555,7 @@ background-color: #31d0aa;
 }
 
 .footer-social-link {
-    display: flex;
-    align-items: baseline;
-    margin-right: 120px
+    margin-right: 120px;
 }
 
 .footer-social-text {
