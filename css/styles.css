@@ -494,6 +494,11 @@ border-top: none;
     margin-right: 120px;
 }
 
+
+.footer-social-link {
+    margin-right: 80px;
+}
+
 .footer-logo {
     display: inline-block;
     margin-bottom: 16px;
@@ -554,9 +559,7 @@ background-color: #31d0aa;
     fill: #f4f4fd;
 }
 
-.footer-social-link {
-    margin-right: 120px;
-}
+
 
 .footer-social-text {
     font-weight: 500;
